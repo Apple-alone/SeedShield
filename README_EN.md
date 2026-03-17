@@ -4,7 +4,7 @@
 
 **[中文](README.md) | English**
 
-SeedShield prevents seed cracking tools (chunkbase, SeedCrackerX, Structurecracker) from determining structure locations by replacing each structure type's placement salt with an irreversible SHA-256 derived value.
+SeedShield prevents seed cracking tools (chunkbase, SeedCrackerX, Structurecracker) from determining structure locations by replacing each structure type's placement salt with an irreversible SHA-256 derived value. Can work in main world / nether / end world.
 
 **This is the first Paper/Spigot plugin to provide cryptographic structure seed protection.** Previously, this level of protection was only available through Fabric mods or custom server forks.
 
