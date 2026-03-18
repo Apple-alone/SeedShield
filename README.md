@@ -1,4 +1,6 @@
 # SeedShield
+![unnamed](https://github.com/user-attachments/assets/7a24fa69-c085-45a5-99ef-338e4b35b293)
+
 
 **Paper/Spigot 服务器的加密结构种子保护插件。**
 
